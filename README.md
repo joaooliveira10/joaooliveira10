@@ -67,6 +67,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooliveira10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 
+![Snake animation](https://github.com/joaooliveira10/joaooliveira10/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -81,5 +83,8 @@
     src="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+
 
 
