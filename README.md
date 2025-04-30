@@ -68,3 +68,6 @@
 </div>
 
 ![Snake animation](https://github.com/joaooliveira10/joaooliveira10/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/joaooliveira10/joaooliveira10/blob/output/github-snake.svg)
+
