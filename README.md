@@ -68,11 +68,18 @@
 </div>
 
 <picture>
-  <source srcset="github-snake-dark.svg" media="(prefers-color-scheme: dark)">
-  <source srcset="github-snake-light.svg" media="(prefers-color-scheme: light)">
-  <img src="github-snake.svg" alt="Snake animation" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake-light.svg"
+  />
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
-
-![Snake animation](https://joaooliveira10.github.io/joaooliveira10/joaooliveira10/github-snake-dark.svg)
 
