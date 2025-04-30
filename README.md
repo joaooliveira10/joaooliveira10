@@ -74,5 +74,5 @@
 </picture>
 
 
-![Snake animation](https://joaooliveira10.github.io/joaooliveira10/github-snake-dark.svg)
+![Snake animation](https://joaooliveira10.github.io/joaooliveira10/joaooliveira10/github-snake-dark.svg)
 
