@@ -67,7 +67,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooliveira10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/joaooliveira10/joaooliveira10/blob/output/github-contribution-grid-snake.svg)
+
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaooliveira10/joaooliveira10/main.yml?label=action&style=flat-square)](https://github.com/joaooliveira10/joaooliveira10/actions/workflows/main.yml)
+
 
 <picture>
   <source
@@ -76,14 +79,13 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake-light.svg"
+    srcset="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="snake animation"
+    alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
 
 
 
