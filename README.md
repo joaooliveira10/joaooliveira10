@@ -67,5 +67,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooliveira10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/joaooliveira10/joaooliveira10/blob/output/github-snake.svg)
+<picture>
+  <source srcset="github-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="github-snake-light.svg" media="(prefers-color-scheme: light)">
+  <img src="github-snake.svg" alt="Snake animation" />
+</picture>
+
+
+![Snake animation](https://joaooliveira10.github.io/joaooliveira10/github-snake-dark.svg)
 
