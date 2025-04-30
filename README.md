@@ -68,10 +68,6 @@
 </div>
 
 
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaooliveira10/joaooliveira10/main.yml?label=action&style=flat-square)](https://github.com/joaooliveira10/joaooliveira10/actions/workflows/main.yml)
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
