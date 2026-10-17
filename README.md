@@ -30,7 +30,7 @@ public sealed record JoaoAngello
 |---|---|
 | [**Serena Theme**](https://github.com/joaooliveira10/serena-theme) | Calm pastel themes for VS Code where every color keeps one meaning, with measured contrast. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=joaoangello.serena-theme) and [Open VSX](https://open-vsx.org/extension/joaoangello/serena-theme). |
 | [**Serena Terminal**](https://github.com/joaooliveira10/serena-terminal) | `sereno`, a dependency-free Go command that makes your terminal follow the system's light, dark and high-contrast setting. |
-| [**joaoangello.dev**](https://github.com/joaooliveira10/joaoangello.dev) | My portfolio: Astro, three.js shaders and a 42,000-point cloud that reshapes as you scroll. |
+| [**joaoangello.dev**](https://joaoangello.dev) | My portfolio: Astro, three.js shaders and a 42,000-point cloud that reshapes as you scroll. |
 | [**GIS App**](https://github.com/joaooliveira10/gis-app) | Geospatial web app with Mato Grosso data, React and containerised services. |
 | [**Encontrar MT**](https://github.com/joaooliveira10/encontrar-mt) | Public lookup of missing people in Mato Grosso, built with Next.js and TypeScript. |
 
