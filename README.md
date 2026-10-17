@@ -1,71 +1,58 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Satellite.png" alt="Satellite" width="35" height="35" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /> Hello DEVs! Welcome to my Github profile.
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="" width="35" height="35" /> Hi, I'm João Angello
+
+Software engineer in Cuiabá, Brazil. I build .NET, Node and React systems that hold up in the real world, AI products that talk to people on WhatsApp, and small open-source tools I use every day.
+
+**Portfolio:** [joaoangello.dev](https://joaoangello.dev) · **Email:** [joao@joaoangello.dev](mailto:joao@joaoangello.dev) · **LinkedIn:** [joaooliveira10](https://www.linkedin.com/in/joaooliveira10) · [YouTube](https://www.youtube.com/channel/UCRx4bWWTs_J9fjbRstMpOiA) · [Instagram](https://instagram.com/joaoangello_)
 
 <div align="right">
 
 > *"The force of technology flows through everything we build."*
 </div>
 
-<div align="center">
-          
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Computer+Engineer;Tech+Explorer;IoT+Enthusiast;Full+Stack+Padawan;AI+Researcher)](https://git.io/typing-svg)
+```csharp
+public sealed record JoaoAngello
+{
+    public string Location  => "Cuiabá, Mato Grosso, Brazil";
+    public string Education => "Computer Engineering @ IFMT";
+    public string Now       => "Software engineer, digital transformation @ SEPLAG-MT";
 
-</div>
+    public string[] Builds  => ["APIs in .NET", "Node.js / NestJS services", "React / Next.js apps", "AI products"];
+    public string[] Cares   => ["Clean Architecture", "DDD", "Accessibility", "Shipping often"];
 
----    
-
-```python
-class JoaoOliveira:
-    def __init__(self):
-        self.name = "João Angelo R. Oliveira"
-        self.location = "Cuiabá, Mato Grosso, Brazil"
-        self.education = "Computer Engineering @ IFMT"
-        self.curiosity = "I've always dismantled my toys to see what gave them life"
-        
-    def current_focus(self):
-        return ["AI", "Web Full Stack"]
-    
-    def looking_for(self):
-        return ["Web Full Stack", "IA"]
-        
-    def fun_fact(self):
-        return "May the force be with you! 🌌"
+    public string Curiosity => "I've always dismantled my toys to see what gave them life";
+    public string FunFact   => "May the force be with you! 🌌";
+}
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /> Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="" width="30" height="30" /> Featured
+
+| Project | What it is |
+|---|---|
+| [**Serena Theme**](https://github.com/joaooliveira10/serena-theme) | Calm pastel themes for VS Code where every color keeps one meaning, with measured contrast. On the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=joaoangello.serena-theme) and [Open VSX](https://open-vsx.org/extension/joaoangello/serena-theme). |
+| [**Serena Terminal**](https://github.com/joaooliveira10/serena-terminal) | `sereno`, a dependency-free Go command that makes your terminal follow the system's light, dark and high-contrast setting. |
+| [**joaoangello.dev**](https://github.com/joaooliveira10/joaoangello.dev) | My portfolio: Astro, three.js shaders and a 42,000-point cloud that reshapes as you scroll. |
+| [**GIS App**](https://github.com/joaooliveira10/gis-app) | Geospatial web app with Mato Grosso data, React and containerised services. |
+| [**Encontrar MT**](https://github.com/joaooliveira10/encontrar-mt) | Public lookup of missing people in Mato Grosso, built with Next.js and TypeScript. |
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="" width="30" height="30" /> Everyday tools
 
 <div align="center">
-
-
-| Infrastructure & DevOps                   | Languages                                                                 | Data & Science                  | IoT & Hardware                                                                 |
-|---------------------------|---------------------------------------------------------------------------|-----------------------------|-----------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="60" height="60" />          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp" width="60" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="60" height="60" />      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="60" height="60" />      |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="60" height="60" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry" width="60" height="60" />       |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure" width="60" height="60" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next" width="60" height="60" />    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL" width="60" height="60" />            |           |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" />          |  |   |     |
-
----       
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" alt="React" title="React" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" title="Python" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/go/go-original-wordmark.svg" alt="Go" title="Go" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="44" height="44" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="44" height="44" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Learning Trajectory
-<div align="center">
-
-| FrontEnd                   | BackEnd                                                                 | Full Stack                  | AI                                                                 |
-|---------------------------|---------------------------------------------------------------------------|-----------------------------|-----------------------------|
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Framed%20Picture.png" alt="Framed Picture" width="25" height="25" /> ![FrontEnd](https://geps.dev/progress/36)          | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> ![BackEnd](https://geps.dev/progress/37) | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> ![Web Full Stack](https://geps.dev/progress/73)      | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/X-Ray.png" alt="X-Ray" width="25" height="25" /> ![AI & Machine Learning](https://geps.dev/progress/20/?title=AI%20%26%20ML&width=300&color=38BDAE)      |
-
----    
-
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="35" height="35" /> GitHub Universe
-
-<div align="center">
-  <a href="https://github.com/joaooliveira10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooliveira10&layout=compact&langs_count=7&theme=vue-dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaooliveira10&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="" width="30" height="30" /> Activity
 
 <picture>
   <source
@@ -77,32 +64,13 @@ class JoaoOliveira:
     srcset="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="Contribution grid with a snake animation"
     src="https://raw.githubusercontent.com/joaooliveira10/joaooliveira10/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Connect With Me
-
-<div align="center">
-  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRx4bWWTs_J9fjbRstMpOiA)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoangello_)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatojoaoaroliveira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaooliveira10)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="35" height="35" /> Nerdy Curiosity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="35" height="35" /> A Star Wars fan since childhood, I still believe the Force is with us — especially when we compile without errors. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="35" height="35" />
-</div>
-
 ---
 
 <div align="center">
-  <sub>Built with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" /> by a tech enthusiast who once dismantled his toys to discover their souls</sub>
+  <sub>A Star Wars fan since childhood. I still believe the Force is with us, especially when it compiles on the first try.</sub>
 </div>
